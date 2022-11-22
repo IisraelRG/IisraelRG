@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently looking for a job
+- 🔭 
 - 🌱 I'm currently learning Dart with the Flutter framework...
 - 👯 I'm looking to collaborate on a project with flutter to improve my knowledge...
 - 📫 https://www.linkedin.com/in/iisraeldevg/
